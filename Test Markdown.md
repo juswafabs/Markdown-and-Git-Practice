@@ -34,4 +34,18 @@
 | HTML | ⭐⭐⭐⭐⭐
 | CSS | ⭐⭐⭐⭐⭐ |
 | Javascript | ⭐⭐⭐⭐|
-| MS SQL | ⭐⭐⭐⭐ |
+| MS SQL | ⭐⭐⭐⭐ |  
+---
+## Tasks  
+* [x] Create a test Markdown File
+* [x] Practice Git with it
+* [x] Add it to a GitHub repository
+* [x] Practice pushing, pulling, and branching
+* [ ] Try cloning, and making a pull request to other public repositories *(that are not mine)*   
+---
+## **Links**  
+[My LinkedIn Profile](https://www.linkedin.com/in/fabianjoshua/ "Come say Hi!")  
+
+[My GitHub Profile](https://github.com/juswafabs "Sorry not that active. Lol")
+
+![Me](https://media.licdn.com/dms/image/C5603AQGeLbj0sv-_Yg/profile-displayphoto-shrink_800_800/0/1646919457121?e=2147483647&v=beta&t=WzqUvSe0meD-Vv0IBFU7xRMAab8o3hQ6Rrnj8m_KYJU)
