@@ -23,4 +23,15 @@
    * (February 2022 - March 2023)
 4. **Insular Life Co** - *Systems Analyst II*
    * Absorbed and made as a direct-hire
-   * (Marh 2023 - *Present*)
+   * (Marh 2023 - *Present*)  
+
+---
+## **Skills**
+
+|   Skill  |   Rating  |
+| -------- | --------- |
+| C#    | ⭐⭐⭐⭐ |
+| HTML | ⭐⭐⭐⭐⭐
+| CSS | ⭐⭐⭐⭐⭐ |
+| Javascript | ⭐⭐⭐⭐|
+| MS SQL | ⭐⭐⭐⭐ |
