@@ -1,4 +1,4 @@
-# Joshua Christian Inocencio Fabian
+# Joshua Christian Inocencio Fabian, 27
 
 ---
 ## *Systems Analyst* at **Insular Life Co.**
@@ -23,7 +23,7 @@
    * (February 2022 - March 2023)
 4. **Insular Life Co** - *Systems Analyst II*
    * Absorbed and made as a direct-hire
-   * (Marh 2023 - *Present*)  
+   * (March 2023 - *Present*)  
 
 ---
 ## **Skills**
